@@ -4,7 +4,7 @@ import styles from '../styles/Navegation.module.css';
 export default function Navegation(props){
     return (
         
-                <Link href={props.destino}>
+                <Link href={props.destino} passHref>
                     <div className={styles.navegation} style={{
                         backgroundColor: props.cor ?? '#000'
                     }}>
