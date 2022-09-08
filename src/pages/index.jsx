@@ -16,6 +16,7 @@ export default function Home(){
                 <Navegation text="Navegação #02" destino="/client/sp-2/1501" cor="purple"/>
                 <Navegation text="Componente com Estado" destino="/estado" cor="#3366F2"/>
                 <Navegation text="Integração com API #01" destino="/integration_1" cor="red"/>
+                <Navegation text="Conteúdo Estático" destino="/static" cor="#04002B"/>
             </div>
         )
 }
