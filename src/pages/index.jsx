@@ -13,6 +13,7 @@ export default function Home(){
                 <Navegation text="Example" destino="/example" cor="#9400d3"/>
                 <Navegation text="JSX" destino="/jsx" cor="crimson"/>
                 <Navegation text="Navegação #01" destino="/navegation" cor="green"/>
+                <Navegation text="Navegação #02" destino="/client/sp-2/1501" cor="purple"/>
             </div>
         )
 }
