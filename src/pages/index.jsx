@@ -14,6 +14,7 @@ export default function Home(){
                 <Navegation text="JSX" destino="/jsx" cor="crimson"/>
                 <Navegation text="Navegação #01" destino="/navegation" cor="green"/>
                 <Navegation text="Navegação #02" destino="/client/sp-2/1501" cor="purple"/>
+                <Navegation text="Componente com Estado" destino="/estado" cor="orange"/>
             </div>
         )
 }
